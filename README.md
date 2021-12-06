@@ -54,6 +54,14 @@ https://www.kaggle.com/reighns/augmentations-data-cleaning-and-bounding-boxes#Au
 ## Detectron
 
 ## Tensorflow Object Detection Api 2
+I implemented some algorithms from Tensorflow object detection zoo. They are:
+- Faster RCNN Resnet50 640X640
+- Faster RCNN Resnet50 1024X1024
+- Faster RCNN Resnet101 1024X1024
+- Faster RCNN Resnet152 1024X1024
+- SSD Resnet50 1024X1024
+- SSD Resnet101 1024X1024
+- SSD Resnet152 1024X1024
 
 ## Ensembling
 
